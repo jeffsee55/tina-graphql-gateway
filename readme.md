@@ -1,3 +1,8 @@
+# ARCHIVED
+
+This repository is archived, the code has been merged with the [TinaCMS monorepo](https://github.com/tinacms/tinacms)
+
+
 # _tina-grapqhl-gateway_
 
 This monorepo contains the _tina-graphql-gateway_ and _tina-graphql-gateway-cli_ packages, which enable [Tina](https://tina.io)-powered websites to use Tina's hosted Content API.
